@@ -3,8 +3,8 @@ Phone Book made of a custom single linked list using only recursive methods for 
 
 # Lookup Functions
 * isEmpty: Checks if the list is empty
-* addToFront: adds to the front of the list
-* addToBack: adds to the back of the list
+* addToFront: adds person to the front of the list
+* addToBack: adds person to the back of the list
 * toString: returns an entire string of the persons sotred information
 * reverseToString: reverses the persons information
 * phoneNumberByName: looks up persons phone number by name
