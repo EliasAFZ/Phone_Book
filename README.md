@@ -1,5 +1,5 @@
 # Phone_Book
-Phone Book made with custom made linked list using only recursive methods for functions.
+Phone Book made with custom made linked list using only recursive methods for functions in JavaFX.
 
 # Book Functions
 
